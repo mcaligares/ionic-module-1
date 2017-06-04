@@ -1,0 +1,22 @@
+img {
+  background-color: inherit !important;
+}
+.kerbun {
+  position: absolute;
+  right: 5px;
+  bottom: 10px;
+  border: 0;
+  height: 100px;
+}
+aside {
+  left: 10px;
+}
+.pull-left {
+  float: left !important;
+}
+.pull-right {
+  float: right !important;
+}
+.font-small {
+  font-size: smaller !important;
+}
